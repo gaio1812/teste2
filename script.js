@@ -1,5 +1,5 @@
 // Ajuste a data para o aniversário desejado (YYYY-MM-DDT00:00:00)
-const launchDate = new Date('2025-09-15T14:17:00');
+const launchDate = new Date('2025-09-14T16:5:00');
 
 function updateCountdown() {
   const now = new Date();
@@ -63,3 +63,4 @@ function drawConfetti() {
 }
 
 drawConfetti();
+
